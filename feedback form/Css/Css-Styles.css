@@ -1,0 +1,28 @@
+body{
+  background-color: #E8F9FD;
+}
+
+.title{
+text-align: left;
+font-size:2rem;
+padding-left: 30px;
+color:#DF7861;
+}
+
+.hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-width:6px;
+  width:15%;
+  position: relative;
+  right:550px;
+}
+
+.info{
+  padding-top: 20px;
+  line-height:50px;
+}
+
+.Thanks{
+  font-size: 1.2rem;
+}
